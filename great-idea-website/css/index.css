@@ -76,19 +76,21 @@ header {
 	display: inline-block;
 	width: 100%;
 	margin: 0 auto;
-
+	position: fixed;
+	top: 0;
 }
 
 nav {
 	display: inline-block;
 	width: 85%;
+	background-color: black;
 }
 
 a {
 	text-decoration: none;
 	font-family: 'Titillium Web', sans-serif;
 	font-size: 15px;
-	color: rgb(112, 112, 112);
+	color: whitesmoke;
 	padding: 0 5%;
 }
 
