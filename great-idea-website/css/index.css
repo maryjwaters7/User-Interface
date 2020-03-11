@@ -64,3 +64,23 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* header container starts here */
+
+.navbar {
+	display: inline-block;
+	width: 100%;
+    margin: 0 auto;
+}
+
+nav {
+	
+}
+
+a {
+	padding: 5%
+}
+
+#logoid {
+	display: inline-block;
+}
