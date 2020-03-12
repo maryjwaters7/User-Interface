@@ -224,3 +224,30 @@ p.add {
 	font-size: 14px;
 	font-family: 'Bellota Text', cursive;
 }
+
+/*This code is for the feature page only*/
+
+.cfeat {
+	display: inline-block;
+	width: 100%
+	margin: 5% auto;
+}
+
+.afeat {
+	display: inline-block;
+	width: 25%;
+	padding: 4%;
+	margin: 5% 4%;
+	border: 2px dotted black;
+}
+
+h4 {
+	font-size: 25px;
+	text-align: center;
+	margin-bottom: 3%;
+}
+
+h4:hover {
+	color: red;
+	font-size: 28px;
+}
